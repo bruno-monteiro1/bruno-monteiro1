@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno Monteiro</h1>
-<h3 align="center">Brazilian Developer passionate about software</h3>
+<h3 align="center">Brazilian developer passionate about software</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
